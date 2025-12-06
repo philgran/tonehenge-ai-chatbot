@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@aws-amplify/data-construct": "^1.16.1",
     "@openai/agents": "^0.3.4",
     "@openai/agents-realtime": "^0.3.4",
     "@radix-ui/themes": "^3.2.1",
@@ -22,7 +23,6 @@
   "devDependencies": {
     "@aws-amplify/backend": "^1.16.1",
     "@aws-amplify/backend-cli": "^1.8.0",
-    "@aws-amplify/data-construct": "^1.16.1",
     "@aws-sdk/types": "^3.734.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
