@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@aws-sdk/types": "^3.734.0",
     "@openai/agents": "^0.3.4",
     "@openai/agents-realtime": "^0.3.4",
     "@radix-ui/themes": "^3.2.1",
